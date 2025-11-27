@@ -61,8 +61,8 @@ npm run preview
 
 ------------------------------------------------------------------------
 ## UI Preview
- ![UI Preview](./src/assets/ui.png)
- ![mobile Preview](./src/assets/image.png)
+ ![UI Preview](ui.png)
+ ![mobile Preview](image.png)
 ------------------------------------------------------------------------
 
 
